@@ -18,10 +18,12 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 
 ## C 
@@ -74,6 +76,7 @@
 
 ## HTML 
 
+- [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
@@ -84,6 +87,8 @@
 
 ## JavaScript 
 
+- [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
+- [gebrkn/copytables](https://github.com/gebrkn/copytables) - Chrome extension to select and copy table cells.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
@@ -106,12 +111,14 @@
 
 ## Others 
 
+- [the0neWhoKnocks/docker-examples](https://github.com/the0neWhoKnocks/docker-examples) - 
 - [drsoft-oss/awesome-proxy](https://github.com/drsoft-oss/awesome-proxy) - 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [wichtounet/systemd-unit-files](https://github.com/wichtounet/systemd-unit-files) - Some unit files for systemd
 
 ## PHP 
 
+- [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool) - m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
@@ -120,8 +127,15 @@
 
 - [kutte013/check_sap_hostctrl](https://github.com/kutte013/check_sap_hostctrl) - SAP CCMS Monitoring -&gt; ABAP/JAVA/TREX
 
+## PowerShell 
+
+- [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
+- [the0neWhoKnocks/powershell-network-mount](https://github.com/the0neWhoKnocks/powershell-network-mount) - A powershell script with a flat UI that'll mount network drives and give feedback on success or error.
+
 ## Python 
 
+- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products, all versions.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -158,6 +172,13 @@
 
 ## Shell 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+- [the0neWhoKnocks/generate-certs](https://github.com/the0neWhoKnocks/generate-certs) - Generate certs for local development
+- [the0neWhoKnocks/shell-scripts](https://github.com/the0neWhoKnocks/shell-scripts) - This repo houses random shell scripts that I've created that help me on a day-to-day basis.
+- [the0neWhoKnocks/shell-menu-select](https://github.com/the0neWhoKnocks/shell-menu-select) - A script that allows a user to use arrow keys to select an item from a list
+- [kneutron/ansitest](https://github.com/kneutron/ansitest) - ansible test stuff and root/bin bash scripts for Linux / OSX admins
+- [rinchen/shell-scripts](https://github.com/rinchen/shell-scripts) - Joey's personal Linux shell scripts
+- [bertrand-benoit/scripts-common](https://github.com/bertrand-benoit/scripts-common) - Common utilities for all GNU/Bash scripts :warning: Now hosted on Gitlab
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection) - The ultimate collection of scripts for YouTube-DL.
 - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake) - Docker container for HandBrake
@@ -180,6 +201,10 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian) - Edit and display Cooklang recipes in Obsidian
+
+## Vim Script 
+
+- [mdebusk/dotfiles](https://github.com/mdebusk/dotfiles) - My configuration files for Linux
 
 ## Visual Basic 
 
