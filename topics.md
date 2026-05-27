@@ -36,6 +36,7 @@
 - [golang](#golang)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
 - [https](#https)
@@ -199,6 +200,7 @@
 
 ## docker 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
@@ -257,6 +259,7 @@
 
 ## hacktoberfest 
 
+- [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -271,6 +274,10 @@
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [lamw/ghettoVCB](https://github.com/lamw/ghettoVCB) - ghettoVCB
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## home-assistant 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## html 
 
@@ -327,6 +334,7 @@
 
 ## linux 
 
+- [rinchen/shell-scripts](https://github.com/rinchen/shell-scripts) - Joey's personal Linux shell scripts
 - [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin) - OliveTin gives safe and simple access to predefined shell commands from a web interface.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -403,6 +411,20 @@
 
 ## others 
 
+- [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
+- [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
+- [The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Virtual-Desktop-Optimization-Tool) - The script and configuration files in this repository provide an easy method to customize and apply performance related settings to virtual desktop environments.
+- [the0neWhoKnocks/powershell-network-mount](https://github.com/the0neWhoKnocks/powershell-network-mount) - A powershell script with a flat UI that'll mount network drives and give feedback on success or error.
+- [the0neWhoKnocks/generate-certs](https://github.com/the0neWhoKnocks/generate-certs) - Generate certs for local development
+- [the0neWhoKnocks/docker-examples](https://github.com/the0neWhoKnocks/docker-examples) - 
+- [the0neWhoKnocks/shell-scripts](https://github.com/the0neWhoKnocks/shell-scripts) - This repo houses random shell scripts that I've created that help me on a day-to-day basis.
+- [the0neWhoKnocks/shell-menu-select](https://github.com/the0neWhoKnocks/shell-menu-select) - A script that allows a user to use arrow keys to select an item from a list
+- [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool) - m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b
+- [mdebusk/dotfiles](https://github.com/mdebusk/dotfiles) - My configuration files for Linux
+- [kneutron/ansitest](https://github.com/kneutron/ansitest) - ansible test stuff and root/bin bash scripts for Linux / OSX admins
+- [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products, all versions.
+- [gebrkn/copytables](https://github.com/gebrkn/copytables) - Chrome extension to select and copy table cells.
+- [bertrand-benoit/scripts-common](https://github.com/bertrand-benoit/scripts-common) - Common utilities for all GNU/Bash scripts :warning: Now hosted on Gitlab
 - [drsoft-oss/awesome-proxy](https://github.com/drsoft-oss/awesome-proxy) - 
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
@@ -513,10 +535,12 @@
 
 ## security 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## self-hosted 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -595,6 +619,7 @@
 
 ## ubuntu 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [gdbtek/linux-cookbooks](https://github.com/gdbtek/linux-cookbooks) - 
 
 ## video 
