@@ -172,6 +172,7 @@
 
 ## Shell 
 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [the0neWhoKnocks/generate-certs](https://github.com/the0neWhoKnocks/generate-certs) - Generate certs for local development
 - [the0neWhoKnocks/shell-scripts](https://github.com/the0neWhoKnocks/shell-scripts) - This repo houses random shell scripts that I've created that help me on a day-to-day basis.
