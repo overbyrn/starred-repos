@@ -136,6 +136,7 @@
 
 ## Python 
 
+- [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons) - 🔹 Use custom svg icons in Home Assistant
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription) - Disables the "No valid subscription" dialog on all Proxmox products, all versions.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
