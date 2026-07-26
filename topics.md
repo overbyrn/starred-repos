@@ -279,6 +279,7 @@
 
 ## home-assistant 
 
+- [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons) - 🔹 Use custom svg icons in Home Assistant
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## html 
