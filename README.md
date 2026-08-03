@@ -112,6 +112,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [the0neWhoKnocks/docker-examples](https://github.com/the0neWhoKnocks/docker-examples) - 
 - [drsoft-oss/awesome-proxy](https://github.com/drsoft-oss/awesome-proxy) - 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
