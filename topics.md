@@ -416,6 +416,7 @@
 
 ## others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds
 - [xvvvyz/tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
