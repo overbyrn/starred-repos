@@ -34,6 +34,7 @@
 - [git](#git)
 - [go](#go)
 - [golang](#golang)
+- [graphql](#graphql)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
@@ -137,6 +138,7 @@
 
 ## automation 
 
+- [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
@@ -255,6 +257,10 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
+## graphql 
+
+- [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
+
 ## gui 
 
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -279,6 +285,8 @@
 
 ## home-assistant 
 
+- [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
+- [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons) - 🔹 Use custom svg icons in Home Assistant
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
