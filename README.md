@@ -137,6 +137,8 @@
 
 ## Python 
 
+- [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
+- [moryoav/ha-anylist](https://github.com/moryoav/ha-anylist) - Home Assistant custom integration for AnyList shopping lists and meal planning
 - [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
 - [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons) - 🔹 Use custom svg icons in Home Assistant
