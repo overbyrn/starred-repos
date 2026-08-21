@@ -99,7 +99,6 @@
 - [Matszwe02/ytdlp_web_player](https://github.com/Matszwe02/ytdlp_web_player) - YT-DLP Web Player - Internet video player powered by yt-dlp
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Monitorr/logarr](https://github.com/Monitorr/logarr) - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
-- [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [leviwheatcroft/concierge](https://github.com/leviwheatcroft/concierge) - A nodejs CLI app to curate scene movie releases
 - [VultureZZ/nzbFamilyHub](https://github.com/VultureZZ/nzbFamilyHub) - 
 - [mattgodbolt/jsbeeb](https://github.com/mattgodbolt/jsbeeb) - Javascript BBC micro emulator
@@ -122,6 +121,7 @@
 
 - [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool) - m4b-tool is a command line utility to merge, split and chapterize audiobook files such as mp3, ogg, flac, m4a or m4b
 - [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse.
+- [misterunknown/ifm](https://github.com/misterunknown/ifm) - Improved File Manager
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 
@@ -176,6 +176,7 @@
 
 ## Rust 
 
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 
 ## Shell 
