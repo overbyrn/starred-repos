@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -53,6 +54,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -73,6 +75,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
@@ -80,6 +83,7 @@
 - [react](#react)
 - [redteam](#redteam)
 - [rest-api](#rest-api)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -115,6 +119,10 @@
 ## ai 
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
+
+## ai-agents 
+
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 
 ## analytics 
 
@@ -368,10 +376,15 @@
 
 ## markdown 
 
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+
+## mcp 
+
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 
 ## microsoft 
 
@@ -406,6 +419,7 @@
 
 ## obsidian 
 
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 - [cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian) - Edit and display Cooklang recipes in Obsidian
 
 ## obsidian-md 
@@ -515,6 +529,10 @@
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 
+## pwa 
+
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+
 ## python 
 
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
@@ -555,6 +573,10 @@
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 
+## rust 
+
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+
 ## security 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -562,6 +584,7 @@
 
 ## self-hosted 
 
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
