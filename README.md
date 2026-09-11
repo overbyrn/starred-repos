@@ -28,6 +28,7 @@
 
 ## C 
 
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -45,6 +46,8 @@
 
 ## C++ 
 
+- [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
+- [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - A Windows packet filtering library that enables low-level network packet interception, inspection, and modification. Ideal for building custom firewalls, VPN solutions, intrusion detection systems, an
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [wesmar/kvc](https://github.com/wesmar/kvc) - KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallbacks redirection) and PP/PPL manipulation for LSASS memory dumping on modern Windows with HVCI/VBS.
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
@@ -107,7 +110,7 @@
 
 ## Kotlin 
 
-- [aimok04/kitshn](https://github.com/aimok04/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
+- [kitshn-app/kitshn](https://github.com/kitshn-app/kitshn) - Unofficial Tandoor client for Android, iOS and Desktop devices
 
 ## Others 
 
