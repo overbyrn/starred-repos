@@ -22,6 +22,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
@@ -91,6 +92,7 @@
 
 ## JavaScript 
 
+- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [murdos/musicbrainz-userscripts](https://github.com/murdos/musicbrainz-userscripts) - Collection of userscripts for MusicBrainz, by various authors
 - [gebrkn/copytables](https://github.com/gebrkn/copytables) - Chrome extension to select and copy table cells.
 - [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2) - Usenet meta search
@@ -140,6 +142,7 @@
 
 ## Python 
 
+- [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [moryoav/ha-anylist](https://github.com/moryoav/ha-anylist) - Home Assistant custom integration for AnyList shopping lists and meal planning
 - [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
@@ -179,6 +182,7 @@
 
 ## Rust 
 
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) - Automated music downloader and manager integrating Slskd and Beets.
 - [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 
@@ -200,6 +204,10 @@
 - [gdbtek/linux-cookbooks](https://github.com/gdbtek/linux-cookbooks) - 
 - [lamw/ghettoVCB](https://github.com/lamw/ghettoVCB) - ghettoVCB
 - [Mar2zz/LaSi](https://github.com/Mar2zz/LaSi) - LaSi is short for: Lazy admin Scripted Installers. Aim is to create 'easy' walkthrough-installers written in Bash for programs that are not inside official *nix-repo's, but for example only on Github 
+
+## Swift 
+
+- [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 
 ## TypeScript 
 
