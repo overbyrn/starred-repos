@@ -151,7 +151,7 @@
 
 ## automation 
 
-- [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
+- [tinkerologie/ha-unraid-management-agent](https://github.com/tinkerologie/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
@@ -278,7 +278,7 @@
 
 ## graphql 
 
-- [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
+- [tinkerologie/ha-unraid](https://github.com/tinkerologie/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 
 ## gui 
 
@@ -305,8 +305,8 @@
 
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [moryoav/ha-anylist](https://github.com/moryoav/ha-anylist) - Home Assistant custom integration for AnyList shopping lists and meal planning
-- [ruaan-deysel/ha-unraid-management-agent](https://github.com/ruaan-deysel/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
-- [ruaan-deysel/ha-unraid](https://github.com/ruaan-deysel/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
+- [tinkerologie/ha-unraid-management-agent](https://github.com/tinkerologie/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
+- [tinkerologie/ha-unraid](https://github.com/tinkerologie/ha-unraid) - Monitor and control your Unraid server directly from Home Assistant. Track system metrics (CPU, RAM, disk usage), manage VMs and Docker containers, monitor UPS status, and receive real-time alerts. Fe
 - [thomasloven/hass-custom_icons](https://github.com/thomasloven/hass-custom_icons) - 🔹 Use custom svg icons in Home Assistant
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
