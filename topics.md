@@ -127,7 +127,7 @@
 
 ## ai-agents 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 
 ## analytics 
 
@@ -396,7 +396,7 @@
 
 ## markdown 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -404,7 +404,7 @@
 
 ## mcp 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 ## microsoft 
@@ -442,7 +442,7 @@
 
 ## obsidian 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 - [cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian) - Edit and display Cooklang recipes in Obsidian
 
 ## obsidian-md 
@@ -556,7 +556,7 @@
 
 ## pwa 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 
 ## python 
 
@@ -599,7 +599,7 @@
 
 ## rust 
 
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 
 ## security 
 
@@ -609,7 +609,7 @@
 ## self-hosted 
 
 - [NeptuneHub/AudioMuse-AI](https://github.com/NeptuneHub/AudioMuse-AI) - AudioMuse-AI uses sonic analysis to rediscover forgotten songs, uncover hidden connections in your music library, and generate intelligent playlists for Navidrome, Jellyfin, LMS, Lyrion, Emby and Plex
-- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-hosted, agent-native web app and MCP server for your Obsidian-style Markdown vault. Browse, search, and edit notes from a fast UI or from AI agents.
+- [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
