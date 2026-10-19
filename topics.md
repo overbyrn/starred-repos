@@ -463,6 +463,7 @@
 
 ## others 
 
+- [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
 - [terry90/soulbeet](https://github.com/terry90/soulbeet) - Automated music downloader and manager integrating Slskd and Beets.
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
