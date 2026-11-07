@@ -185,6 +185,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
 ## cpp 
@@ -243,6 +244,7 @@
 ## dotnet 
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 
 ## downloader 
 
@@ -312,6 +314,7 @@
 
 ## home-assistant 
 
+- [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡
 - [lonlazer/ha-alexa-todo-lists](https://github.com/lonlazer/ha-alexa-todo-lists) - Sync Alexa To-Do and Shopping list with Home Assistant
 - [moryoav/ha-anylist](https://github.com/moryoav/ha-anylist) - Home Assistant custom integration for AnyList shopping lists and meal planning
 - [tinkerologie/ha-unraid-management-agent](https://github.com/tinkerologie/ha-unraid-management-agent) - Home Assistant Integration for the Management Agent for Unraid
@@ -512,7 +515,6 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [loganmarchione/docker-postfixrelay](https://github.com/loganmarchione/docker-postfixrelay) - Runs Postfix (as a relay) in Docker
 - [YoRyan/mailrise](https://github.com/YoRyan/mailrise) - An SMTP gateway for Apprise notifications.
-- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier!
 - [chriselswede/hanacleaner](https://github.com/chriselswede/hanacleaner) - A house keeping script for SAP HANA
 - [kutte013/check_sap_hostctrl](https://github.com/kutte013/check_sap_hostctrl) - SAP CCMS Monitoring -&gt; ABAP/JAVA/TREX
@@ -630,6 +632,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [Monitorr/logarr](https://github.com/Monitorr/logarr) - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
 - [shaarli/Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
