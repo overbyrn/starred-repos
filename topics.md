@@ -740,7 +740,7 @@
 ## windows 
 
 - [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
-- [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - A Windows packet filtering library that enables low-level network packet interception, inspection, and modification. Ideal for building custom firewalls, VPN solutions, intrusion detection systems, an
+- [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - C/C++ and .NET interfaces to Windows Packet Filter (WinpkFilter). Inspect, filter, modify, and inject network packets from user mode.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
