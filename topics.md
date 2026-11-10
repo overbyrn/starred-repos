@@ -113,6 +113,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -739,12 +740,17 @@
 
 ## windows 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [wiresock/proxifyre](https://github.com/wiresock/proxifyre) - ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.
 - [wiresock/ndisapi](https://github.com/wiresock/ndisapi) - C/C++ and .NET interfaces to Windows Packet Filter (WinpkFilter). Inspect, filter, modify, and inject network packets from user mode.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+
+## windows-11 
+
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## xml 
 
