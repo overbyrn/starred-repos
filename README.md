@@ -29,6 +29,7 @@
 
 ## C 
 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [haiwen/seafile](https://github.com/haiwen/seafile) - Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -100,6 +101,7 @@
 - [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
 - [Matszwe02/ytdlp_web_player](https://github.com/Matszwe02/ytdlp_web_player) - YT-DLP Web Player - Internet video player powered by yt-dlp
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [Monitorr/logarr](https://github.com/Monitorr/logarr) - “Logarr” is a self-hosted PHP web app that consolidates, formats, and displays log and text files for easy analysis and monitoring.
 - [leviwheatcroft/concierge](https://github.com/leviwheatcroft/concierge) - A nodejs CLI app to curate scene movie releases
 - [VultureZZ/nzbFamilyHub](https://github.com/VultureZZ/nzbFamilyHub) - 
@@ -222,7 +224,6 @@
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [cooklang/cooklang-obsidian](https://github.com/cooklang/cooklang-obsidian) - Edit and display Cooklang recipes in Obsidian
 
 ## Vim Script 
