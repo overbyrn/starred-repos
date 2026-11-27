@@ -183,7 +183,7 @@
 
 ## Rust 
 
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) - Automated music downloader and manager integrating Slskd and Beets.
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) - All-in-one self-hosted music studio for Navidrome: search, download, tag, discover, and play across Web, Desktop, Android & Android Auto (plus MCP).
 - [BatterWorks/Hatchdoor](https://github.com/BatterWorks/Hatchdoor) - Self-host your Obsidian vaults: a web UI for you, MCP for your AI agents. No Obsidian, no plugins required.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
 
