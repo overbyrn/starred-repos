@@ -477,7 +477,7 @@
 ## others 
 
 - [ots-downloader/onthespot](https://github.com/ots-downloader/onthespot) - A GUI music downloader for Apple Music, Bandcamp, Deezer, Qobuz, Spotify, Tidal, and More
-- [terry90/soulbeet](https://github.com/terry90/soulbeet) - Automated music downloader and manager integrating Slskd and Beets.
+- [terry90/soulbeet](https://github.com/terry90/soulbeet) - All-in-one self-hosted music studio for Navidrome: search, download, tag, discover, and play across Web, Desktop, Android & Android Auto (plus MCP).
 - [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [get-iplayer/get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer and BBC Sounds
